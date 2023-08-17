@@ -10,7 +10,7 @@
 <body>
 <div class="class-padding">
     <section>
-        <h1>북마크 삭제</h1>
+        <h1>북마크 그룹 수정</h1>
         <li>
             <form class="class-button" action="<%= request.getContextPath()%>/" method="get">
                 <input class="class-button" type="submit" id="home" value="홈"></form>
